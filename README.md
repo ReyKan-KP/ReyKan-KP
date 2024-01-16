@@ -20,9 +20,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reykan-kp&show_icons=true&locale=en&layout=compact" alt="reykan-kp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reykan-kp&show_icons=true&locale=en" alt="reykan-kp" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reykan-kp&" alt="reykan-kp" /></p>
 
-[![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reykan-kp&show_icons=true&locale=en" alt="reykan-kp" /></p>
+
+<p>[![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)</p>
 
