@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reykan-kp&show_icons=true&locale=en" alt="reykan-kp" /></p>
 
-<p>[![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)</p>
+[![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)
 
