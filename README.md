@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/kanishak-pranjal-070a45235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishak-pranjal" height="30" width="40" /></a>
 <a href="https://codesandbox.com/reykan-kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="reykan-kp" height="30" width="40" /></a>
 <a href="https://instagram.com/kanishak_pranjal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanishak_pranjal_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanishakpranjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanishakpranjal" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reykan-kp&" alt="reykan-kp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reykan-kp&show_icons=true&locale=en" alt="reykan-kp" /></p>
+<center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reykan-kp&show_icons=true&locale=en" alt="reykan-kp" /></center>
 
 [![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)
 
