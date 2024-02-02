@@ -25,6 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reykan-kp&" alt="reykan-kp" /></p>
 
 <center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reykan-kp&show_icons=true&locale=en" alt="reykan-kp" /></center>
+<a><img src="https://komarev.com/ghpvc/?username=ReyKan-KP"></img></a>
 
 [![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)
 
