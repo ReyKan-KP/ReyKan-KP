@@ -5,7 +5,11 @@
 <hr>
 
 # 💫 About Me:
-🔭 I’m currently working on [NexiMeet](https://github.com/ReyKan-KP/nexi-meet)<br>👨‍💻 All of my projects are available at [https://portfolio-kanishaka-pranjal.vercel.app/](https://portfolio-kanishaka-pranjal.vercel.app/)<br>💬 Ask me about **Next.js & MERN Stack**<br>📫 How to reach me **kanishakpranjal@gmail.com**<br> 📄 Know about my experiences [https://drive.google.com/file/d/1S9qt6wq8bry_k7oWNdGRs0h-gNGXJGBF/view?usp=sharing](https://drive.google.com/file/d/1S9qt6wq8bry_k7oWNdGRs0h-gNGXJGBF/view?usp=sharing)
+### 🔭 I’m currently working on [NexiMeet](https://github.com/ReyKan-KP/nexi-meet)<br>
+### 👨‍💻 All of my projects are available at [https://portfolio-kanishaka-pranjal.vercel.app/](https://portfolio-kanishaka-pranjal.vercel.app/)<br>
+### 💬 Ask me about **Next.js & MERN Stack**<br>
+### 📫 How to reach me **kanishakpranjal@gmail.com**<br> 
+### 📄 Know about my experiences [https://drive.google.com/file/d/1S9qt6wq8bry_k7oWNdGRs0h-gNGXJGBF/view?usp=sharing](https://drive.google.com/file/d/1S9qt6wq8bry_k7oWNdGRs0h-gNGXJGBF/view?usp=sharing)
 
 <hr>
 
