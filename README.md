@@ -9,7 +9,7 @@
 ### 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kanishaka-pranjal.vercel.app/)<br>
 ### 💬 Ask me about **Next.js & MERN Stack**<br>
 ### 📫 How to reach me **kanishakpranjal@gmail.com**<br> 
-### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17JyWj0zycnMqwH4d3yP03TIYl1eBRCOH/view?usp=sharing)
+### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HdE88-yHfvv2eJ8rXcrhJ0QUP4Gshh9u/view?usp=sharing)
 <hr>
 
 # 🌐 Socials:
