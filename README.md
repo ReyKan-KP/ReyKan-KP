@@ -54,6 +54,8 @@
 
 <hr>
 
+<img src="https://raw.githubusercontent.com/ReyKan-KP/ReyKan-KP/output/snake.svg" alt="Snake animation" />
 
+<hr>
 
 [![An image of @reykankp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reykankp)](https://holopin.io/@reykankp)
