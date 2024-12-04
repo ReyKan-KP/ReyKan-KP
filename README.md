@@ -32,9 +32,9 @@
   <!-- First row with 2 columns -->
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyKan-KP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-      </td>
+<!--       <td> -->
+<!--         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyKan-KP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
+<!--       </td> -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=ReyKan-KP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
