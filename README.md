@@ -5,7 +5,7 @@
 <hr>
 
 # 💫 About Me:
-### 🔭 I’m currently working on [NexiMeet](https://github.com/ReyKan-KP/nexi-meet)<br>
+### 🔭 I’m currently working on [FableWeaver.ai](https://github.com/ReyKan-KP/FableWeaver.ai)<br>
 ### 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kanishaka-pranjal.vercel.app/)<br>
 ### 💬 Ask me about **Next.js & MERN Stack**<br>
 ### 📫 How to reach me **kanishakpranjal@gmail.com**<br> 
