@@ -42,7 +42,7 @@
   </table>
 
   <!-- Second row -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyKan-KP&theme=tokyonight&hide_border=false" width="800px" />
+
   
 <hr>
 
