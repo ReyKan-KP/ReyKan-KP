@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 ### 🔭 My best project : [FableWeaver.ai](https://fable-weaver-ai.vercel.app/)<br>
-### 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kanishaka-pranjal.vercel.app/)<br>
+### 👨‍💻 All of my projects are available at [Portfolio](https://www.kanishakapranjal.com/)<br>
 ### 💬 Ask me about **Next.js & MERN Stack**<br>
 ### 📫 How to reach me **kanishakpranjal@gmail.com**<br> 
 ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vRZY7eQnzN7KKaQOB1Xjz1h1lsFa3zd9/view?usp=sharing)
