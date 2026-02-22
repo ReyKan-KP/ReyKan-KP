@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kanishaka Pranjal</h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
-
+<h1 align="center">Hi, I'm Kanishaka Pranjal</h1>
+<h3 align="center">I turn AI prototypes into shipped products</h3>
 
 <hr>
 
 # 💫 About Me:
-### 🔭 My best project : [FableWeaver.ai](https://fable-weaver-ai.vercel.app/)<br>
-### 👨‍💻 All of my projects are available at [Portfolio](https://www.kanishakapranjal.com/)<br>
-### 💬 Ask me about **Next.js & MERN Stack**<br>
-### 📫 How to reach me **kanishakpranjal@gmail.com**<br> 
+### 🔭 Best project: [FableWeaver.ai](https://fable-weaver-ai.vercel.app/) - AI storytelling platform<br>
+### 🏗️ Currently building **WorkStackOS** at **WeAssist.io** - multi-tenant SaaS with AI that handles the grunt work
+### 🚀 10+ AI products shipped to production - none perfect, all real<br>
+### 💬 Ask me about **Next.js, AI, Multi-Tenant SaaS, Voice AI**<br>
+### 📫 Reach me at **hi@kanishakapranjal.com**<br>
+### 🌐 Portfolio: [kanishakapranjal.com](https://www.kanishakapranjal.com/)
 ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vRZY7eQnzN7KKaQOB1Xjz1h1lsFa3zd9/view?usp=sharing)
 <hr>
 
